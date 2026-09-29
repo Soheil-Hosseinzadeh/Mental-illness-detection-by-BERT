@@ -11,7 +11,7 @@ This project fine-tunes MentalBERT classifiers to detect depression-related and 
 
 ## Evaluation
 ### Depression model:
-<img src="confusion_matrix_depression.png">
+<img width="530" src="confusion_matrix_depression.png">
 
 ### Suicidal model:
-<img src="confusion_matrix_suicidal.png">
+<img width="530" src="confusion_matrix_suicidal.png">
