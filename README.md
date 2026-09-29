@@ -12,7 +12,7 @@ The model has been fine-tuned by two csv files `depression.csv`, `Suicide_Detect
 
 ## Evaluation
 ### Depression model:
-<img src="confusion_matrix_depression.png">
+<img width="530" src="confusion_matrix_depression.png">
 
 ### Suicidal model:
-<img src="confusion_matrix_suicidal.png">
+<img width="530" src="confusion_matrix_suicidal.png">
